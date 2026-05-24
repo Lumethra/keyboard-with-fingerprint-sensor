@@ -1,6 +1,13 @@
-a readme
+# Auth 75
 
+## PCB + Schematics
 
-TODO: 
+## What is this? 
 
-- write QMK maybe
+## Why? 
+
+## BOM
+
+## Contribute
+
+## Thank you
