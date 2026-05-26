@@ -57,6 +57,14 @@ I did some research and found out that the Framework 13 Fingerprint Reader isnt 
 
 ---
 
+## Zine
+
+| Zine |
+| --- |
+| <img alt="Auth75-Zine" src="https://github.com/Lumethra/Auth75/blob/main/Images/Zine.png" /> |
+
+---
+
 ## BOM
 
 | Part | Purpose | Cost | Quantity | Total Cost | LCSC/JLCPCB Number | Link |
@@ -91,6 +99,7 @@ I did some research and found out that the Framework 13 Fingerprint Reader isnt 
 ## Contribute
 
 Want to make it better? Found some bugs? Feel free to open a PR (pull request) and lets make the project better. ^_^
+> the libraries are all imported with [easyeda2kicad](https://github.com/uPesy/easyeda2kicad.py) and [kiswitch](https://github.com/kiswitch/kiswitch)
 
 ---
 
