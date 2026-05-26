@@ -56,14 +56,17 @@ I did some research and found out that the Framework 13 Fingerprint Reader isnt 
 | <img alt="Auth75-Schematics" src="https://github.com/Lumethra/Auth75/blob/main/Images/Auth75-PCB.png" /> |
 
 ---
-
-## Zine
+<details>
+  <summary>
+    <h2>Zine</h2> 
+  </summary>
 
 | Zine |
 | --- |
 | <img alt="Auth75-Zine" src="https://github.com/Lumethra/Auth75/blob/main/Images/Zine.png" /> |
 
 ---
+</details>
 
 ## BOM
 
