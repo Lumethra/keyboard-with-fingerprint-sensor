@@ -69,7 +69,7 @@ I did some research and found out that the Framework 13 Fingerprint Reader isnt 
 
 | Zine |
 | --- |
-| <img alt="Auth75-Zine" src="https://github.com/Lumethra/Auth75/blob/main/Images/Zine.png" /> |
+| <img alt="Auth75-Zine" src="https://github.com/Lumethra/Auth75/blob/main/Images/zine.png" /> |
 
 ---
 </details>
